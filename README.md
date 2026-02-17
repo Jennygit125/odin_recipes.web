@@ -1,2 +1,2 @@
 # simple_recipes.web
-a simple website for selecting recipes (ny first web repository)
+a simple website for selecting recipes (my first web repository)
